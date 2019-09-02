@@ -1,1 +1,2 @@
-
+This repository contains the code that I wrote for Professor Fontaine's Financial Signal Processing course at The Cooper Union. The following MATLAB files correspond to the respective assignments: (1) Binomial_Asset_Pricing_Model.m (2) Brownian_Motion.m (3) StochasticCalculus.m (4) SparsePortfolio.m (5) TimeSeriesAnalysis.m
+The CSV files are all required in order to run the scripts/perform the data analysis.
